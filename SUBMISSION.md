@@ -3,7 +3,7 @@
 ## Candidate
 
 - Name: Utkarsh Pandey
-- Email: pandeyutk242@gmail.com
+- Email: pandeyutk239@gmail.com
 - GitHub: https://github.com/utkarsh9600
 - Selected problem: Webhook Retry Engine
 - Demo video: https://drive.google.com/file/d/1Zo-LCOFMOXefuiLIiuKuMOq7k1US10Kg/view?usp=sharing
