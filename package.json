@@ -1,0 +1,20 @@
+{
+  "name": "webhook-retry-engine",
+  "version": "1.0.0",
+  "description": "Backend service that accepts events and reliably delivers them to a configured webhook endpoint, with retries, recorded attempt history, and idempotent ingestion.",
+  "main": "src/server.js",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "jest",
+    "demo": "node demo/run-demo.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
